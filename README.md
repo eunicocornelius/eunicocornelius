@@ -1,4 +1,4 @@
-# Welcome To My Profile 👋
+# Welcome To My Profile <img src="https://cutewallpaper.org/21/cute-backgrounds-gif/Cute-gif-transparent-background-Background-Download.gif" width="50px">
 Hi there! My name is Nico and I am a Junior Developer. I love Frontend, Mobile, and Game development. 
 <!-- Actual text -->
 
@@ -60,7 +60,7 @@ ___
 
 ## Github Stats
 <a href="https://github.com/eunicocornelius?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=400" />
 </a>
 <a href="https://github.com/eunicocornelius?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunicocornelius&show_icons=true&theme=radical&card_width=400&line_height=27" alt="Nico's GitHub Stats" />
