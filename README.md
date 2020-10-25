@@ -59,9 +59,9 @@ ___
 ___
 
 ## Github Stats
-<div style="align-text:center">
+<div style="text-align:center">
 <a href="https://github.com/eunicocornelius?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=310" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=305" />
 </a>
 <a href="https://github.com/eunicocornelius?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunicocornelius&show_icons=true&theme=radical&card_width=300&line_height=27" alt="Nico's GitHub Stats" />
