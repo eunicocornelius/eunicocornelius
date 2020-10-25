@@ -59,8 +59,9 @@ ___
 ___
 
 ## Github Stats
+<div style="align-text:center">
 <a href="https://github.com/eunicocornelius?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=310" />
 </a>
 <a href="https://github.com/eunicocornelius?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunicocornelius&show_icons=true&theme=radical&card_width=300&line_height=27" alt="Nico's GitHub Stats" />
@@ -73,6 +74,7 @@ ___
 <a href="https://github.com/eunicocornelius/flutter_world_time">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eunicocornelius&repo=flutter_world_time&theme=radical" />
 </a>   
+</div>
 <!--
 **eunicocornelius/eunicocornelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
