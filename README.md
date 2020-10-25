@@ -60,10 +60,10 @@ ___
 
 ## Github Stats
 <a href="https://github.com/eunicocornelius?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=300" />
 </a>
 <a href="https://github.com/eunicocornelius?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunicocornelius&show_icons=true&theme=radical&card_width=400&line_height=27" alt="Nico's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunicocornelius&show_icons=true&theme=radical&card_width=300&line_height=27" alt="Nico's GitHub Stats" />
 </a>
 
 <a href="https://github.com/eunicocornelius/mern_devconnector">
