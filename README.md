@@ -1,4 +1,4 @@
-# Welcome To My Profile <img src="https://cutewallpaper.org/21/cute-backgrounds-gif/Cute-gif-transparent-background-Background-Download.gif" width="50px">
+# Welcome To My Profile <img src="https://github.com/eunicocornelius/eunicocornelius/blob/main/tea_square.gif?raw=true" width="110px" align="right">
 Hi there! My name is Nico and I am a Junior Developer. I love Frontend, Mobile, and Game development. 
 <!-- Actual text -->
 
