@@ -15,13 +15,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/eunico-cornelius-0a262b151/
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/-OS-007EB8)
-![](https://img.shields.io/badge/-Code-04B8C1)
-![](https://img.shields.io/badge/-Frameworks%20%26%20Libraries-0CD4AD)
-![](https://img.shields.io/badge/-Runtime%20%26%20Toolkits-FDD913)
-![](https://img.shields.io/badge/-Databases-FF0558)
-![](https://img.shields.io/badge/-Others-700c54)
-___
 ![](https://img.shields.io/static/v1?message=Windows&logo=windows&labelColor=5c5c5c&color=007EB8&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=MacOSx&logo=apple&labelColor=5c5c5c&color=007EB8&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Linux&logo=linux&labelColor=5c5c5c&color=007EB8&logoColor=white&label=%20)
@@ -56,6 +49,13 @@ ___
 ![](https://img.shields.io/static/v1?message=Adobe-Photshop&logo=adobe-photoshop&labelColor=5c5c5c&color=700c54&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Adobe-XD&logo=adobe-xd&labelColor=5c5c5c&color=700c54&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=700c54&logoColor=white&label=%20)
+___
+![](https://img.shields.io/badge/-OS-007EB8)
+![](https://img.shields.io/badge/-Code-04B8C1)
+![](https://img.shields.io/badge/-Frameworks%20%26%20Libraries-0CD4AD)
+![](https://img.shields.io/badge/-Runtime%20%26%20Toolkits-FDD913)
+![](https://img.shields.io/badge/-Databases-FF0558)
+![](https://img.shields.io/badge/-Others-700c54)
 ___
 
 ## Github Stats
