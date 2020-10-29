@@ -58,6 +58,10 @@ ___
 ![](https://img.shields.io/badge/-Others-700c54)
 ___
 
+## Codewars 
+[<img src="https://www.codewars.com/users/eunico.cs/badges/large">](https://www.codewars.com/users/eunico.cs) <br>
+Click [<img src="https://www.codewars.com/users/eunico.cs/badges/micro">](https://www.codewars.com/users/eunico.cs) to check out more of my Codewars
+
 ## Github Stats
 <p align="center">
 <a href="https://github.com/eunicocornelius?tab=repositories">
