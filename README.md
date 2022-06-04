@@ -1,4 +1,5 @@
-# Welcome To My Profile <img src="https://github.com/eunicocornelius/eunicocornelius/blob/main/tea_square.gif?raw=true" width="10px" align="right">
+# Welcome To My Profile 
+<img src="https://github.com/eunicocornelius/eunicocornelius/blob/main/tea_square.gif?raw=true" width="100px" height="100px" align="right">
 Hi there! My name is Nico and I am a Junior Developer. I love Frontend, Mobile, and Game development. 
 <!-- Actual text -->
 
