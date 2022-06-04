@@ -1,6 +1,6 @@
 # Welcome To My Profile 
 <img src="https://github.com/eunicocornelius/eunicocornelius/blob/main/tea_square.gif?raw=true" width="100px" height="100px" align="right">
-Hi there! My name is Nico and I am a Junior Developer. I love Frontend, Mobile, and Game development. 
+Hi there! My name is Nico and I am a Software Developer. I love Frontend, Mobile, Game development with a side interest in Artificial Intelligence. 
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
@@ -79,6 +79,10 @@ Click [<img src="https://www.codewars.com/users/eunico.cs/badges/micro">](https:
 <a href="https://github.com/eunicocornelius/flutter_world_time">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eunicocornelius&repo=flutter_world_time&theme=radical" />
 </a>   
+  
+<a href="https://github.com/eunicocornelius/Ravenous-YelpClone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eunicocornelius&repo=Ravenous-YelpClone&theme=radical" />
+</a>
 </p>
 <!--
 **eunicocornelius/eunicocornelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
