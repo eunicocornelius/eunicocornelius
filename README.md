@@ -1,6 +1,6 @@
 # Welcome To My Profile 
 <img src="https://github.com/eunicocornelius/eunicocornelius/blob/main/tea_square.gif?raw=true" width="100px" height="100px" align="right">
-Hi there! My name is Nico and I am a Software Developer. I love Frontend, Mobile, Game development with a side interest in Artificial Intelligence. 
+Hi there! My name is Nico and I am a Software Developer. I love Frontend, Mobile, Game development with an interest in Artificial Intelligence. 
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
