@@ -68,9 +68,9 @@ Click [<img src="https://www.codewars.com/users/eunico.cs/badges/micro">](https:
 <a href="https://github.com/eunicocornelius?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunicocornelius&hide=dart,html&theme=radical&card_width=305" />
 </a>
-<a href="https://github.com/eunicocornelius?tab=repositories">
+<!-- <a href="https://github.com/eunicocornelius?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eunicocornelius&show_icons=true&theme=radical&card_width=300&line_height=27" alt="Nico's GitHub Stats" />
-</a>
+</a> -->
 
 <a href="https://github.com/eunicocornelius/mern_devconnector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eunicocornelius&repo=mern_devconnector&theme=radical" />
