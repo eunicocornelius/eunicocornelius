@@ -3,7 +3,7 @@
 Hi there! My name is Nico and I am a Software Developer. I love Frontend, Mobile, Game development with an interest in Artificial Intelligence. 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
